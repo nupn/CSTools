@@ -1,0 +1,6 @@
+c:\users\nupn56.nxk\documents\visual studio 2010\Projects\Tests\Tests\bin\Debug\Tests.exe
+c:\users\nupn56.nxk\documents\visual studio 2010\Projects\Tests\Tests\bin\Debug\Tests.pdb
+c:\users\nupn56.nxk\documents\visual studio 2010\Projects\Tests\Tests\obj\x86\Debug\Tests.exe
+c:\users\nupn56.nxk\documents\visual studio 2010\Projects\Tests\Tests\obj\x86\Debug\Tests.pdb
+c:\users\nupn56.nxk\documents\visual studio 2010\Projects\Tests\Tests\bin\Debug\Tests.exe.config
+c:\users\nupn56.nxk\documents\visual studio 2010\Projects\Tests\Tests\obj\x86\Debug\Tests.csproj.ResolveComReference.cache

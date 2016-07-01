@@ -1,0 +1,9 @@
+c:\users\nupn56.nxk\documents\visual studio 2010\Projects\Tests\ArrayCompareTest\bin\Debug\ArrayCompareTest.exe
+c:\users\nupn56.nxk\documents\visual studio 2010\Projects\Tests\ArrayCompareTest\bin\Debug\ArrayCompareTest.pdb
+c:\users\nupn56.nxk\documents\visual studio 2010\Projects\Tests\ArrayCompareTest\obj\x86\Debug\ArrayCompareTest.exe
+c:\users\nupn56.nxk\documents\visual studio 2010\Projects\Tests\ArrayCompareTest\obj\x86\Debug\ArrayCompareTest.pdb
+C:\workspace\Tests\ArrayCompareTest\obj\x86\Debug\ArrayCompareTest.exe
+C:\workspace\Tests\ArrayCompareTest\obj\x86\Debug\ArrayCompareTest.pdb
+C:\workspace\Tests\ArrayCompareTest\bin\Debug\ArrayCompareTest.exe
+C:\workspace\Tests\ArrayCompareTest\bin\Debug\ArrayCompareTest.pdb
+C:\workspace\Tests\ArrayCompareTest\obj\x86\Debug\ArrayCompareTest.csprojResolveAssemblyReference.cache

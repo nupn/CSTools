@@ -1,0 +1,4 @@
+c:\users\nupn56.nxk\documents\visual studio 2010\Projects\Tests\PathTest\bin\Debug\PathTest.exe
+c:\users\nupn56.nxk\documents\visual studio 2010\Projects\Tests\PathTest\bin\Debug\PathTest.pdb
+c:\users\nupn56.nxk\documents\visual studio 2010\Projects\Tests\PathTest\obj\x86\Debug\PathTest.exe
+c:\users\nupn56.nxk\documents\visual studio 2010\Projects\Tests\PathTest\obj\x86\Debug\PathTest.pdb

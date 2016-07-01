@@ -1,0 +1,4 @@
+C:\workspace\Tests\ExcelByOLEDB\bin\Debug\ExcelByOLEDB.exe
+C:\workspace\Tests\ExcelByOLEDB\bin\Debug\ExcelByOLEDB.pdb
+C:\workspace\Tests\ExcelByOLEDB\obj\x86\Debug\ExcelByOLEDB.exe
+C:\workspace\Tests\ExcelByOLEDB\obj\x86\Debug\ExcelByOLEDB.pdb

@@ -1,0 +1,8 @@
+C:\workspace\fxdev2etc\cautil\DataGridViewTest\DataGridViewTest\bin\Debug\DataGridViewTest.exe
+C:\workspace\fxdev2etc\cautil\DataGridViewTest\DataGridViewTest\bin\Debug\DataGridViewTest.pdb
+C:\workspace\fxdev2etc\cautil\DataGridViewTest\DataGridViewTest\obj\x86\Debug\DataGridViewTest.Properties.Resources.resources
+C:\workspace\fxdev2etc\cautil\DataGridViewTest\DataGridViewTest\obj\x86\Debug\DataGridViewTest.csproj.GenerateResource.Cache
+C:\workspace\fxdev2etc\cautil\DataGridViewTest\DataGridViewTest\obj\x86\Debug\DataGridViewTest.exe
+C:\workspace\fxdev2etc\cautil\DataGridViewTest\DataGridViewTest\obj\x86\Debug\DataGridViewTest.pdb
+C:\workspace\fxdev2etc\cautil\DataGridViewTest\DataGridViewTest\obj\x86\Debug\DataGridViewTest.Form1.resources
+C:\workspace\fxdev2etc\cautil\DataGridViewTest\DataGridViewTest\obj\x86\Debug\DataGridViewTest.csprojResolveAssemblyReference.cache
